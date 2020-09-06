@@ -1,6 +1,7 @@
 ![Screenshot (248)](https://user-images.githubusercontent.com/52904509/92327662-dfd15080-f078-11ea-9253-576bf2c09f4e.png)
 ![Screenshot (249)](https://user-images.githubusercontent.com/52904509/92327668-e65fc800-f078-11ea-94b5-fbf1dac954f9.png)
 
+This amazon clone webpage has been built using React, HTML, CSS, JavaScript. Firebase has been used for user authentication.
 
 In the project directory, you can run:
 
